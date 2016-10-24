@@ -52,5 +52,5 @@ jspm_packages
 #typings
 typings/*
 
-*.js
-*.js.map
+app/*.js
+app/*.js.map
